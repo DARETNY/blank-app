@@ -15,9 +15,9 @@ st.set_page_config(
     initial_sidebar_state="expanded"
 )
 
-st.title("🎮 Racing Kingdom - Gelişmiş Analitik Dashboard")
+st.title(":material/android: Racing Kingdom - Gelişmiş Analitik Dashboard")
 st.markdown("""
-Bu dashboard, **Racing Kingdom** uygulamasının Google Play yorumlarını analitik bir perspektifle sunar.
+Bu dashboard, **Racing Kingdom** uygulamasının **Google Play** yorumlarını analitik bir perspektifle sunar.
 Ülke kodlarını seçerek yorumları getirebilir ve görselleştirebilirsiniz.
 """)
 
