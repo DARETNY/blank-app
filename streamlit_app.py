@@ -10,7 +10,7 @@ from google_play_scraper import reviews_all, Sort
 # --- Sayfa Ayarları ve Başlık ---
 st.set_page_config(
     page_title="Racing Kingdom - Analitik Dashboard",
-    page_icon="🎮",
+    page_icon=":material/android:",
     layout="wide",
     initial_sidebar_state="expanded"
 )
