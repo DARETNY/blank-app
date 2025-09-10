@@ -1,1 +1,4 @@
+pandas
+plotly
 streamlit
+google-play-scraper
